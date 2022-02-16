@@ -1,0 +1,27 @@
+---
+title: "When you love Maths.."
+description: |
+  This is my first blog post ever.. just so excited!
+author:
+  - name: KPOVIESSI Dohèto Othniel
+    url: https://example.com/norajones
+date: 2022-02-16
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Welcome is this new section in which I will lead you step by step in the process on creating a plot in R. Let's dive in!
+
+```{r}
+head(mtcars)
+```
+
+As you can see, we have the first 6 lines of you dataset. That is what we call the head. 
+
+```{r}
+attach(mtcars)
+plot(mpg, hp, col="red", pch=20, xlab = "Miles per gallon",
+     ylab = "Horsepower", main= "Horsepower vs MPG")
+```
+
