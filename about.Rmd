@@ -1,9 +1,28 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  Well.. not like the other one ! ! !
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![*This picture was taken the day of my Masters graduation ceremony at Shiga University, Japan. I'm now a proud Ph.D. Student of the GSID of Nagoya University, Japan.*](Pourlafete.jpg)
+
+## Hello guys ! ! ! 
+
+I'm Othniel.. but here you surely gonna call me Lulus.. I am a proud Ph.D. Student of the Graduate School of International Development of Nagoya-University (one of the best here in Japan :) ) and well his is a place where we are gonna have fun learning R.. yes R.. yes.. yes.. R haha.. the kind of intimidating but very nice statistical software.. 
+
+I promise.. I will take step by step.. you are gonna love it sure..
+I promise.. promise.. 
+
+## For more details..
+
+For more about me please visit my  [personal website](https://othnielwebsite.netlify.app/).
+
+Now let's get started! 
+
+
+
+

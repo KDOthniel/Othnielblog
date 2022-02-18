@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My great Blog",
-    "description": "Welcome to our new blog, My great Blog. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2022-02-16",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2022-02-16T12:23:12+09:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2022-02-16-when-you-love-maths/",
     "title": "When you love Maths..",
     "description": "This is my first blog post ever.. just so excited!",
@@ -30,7 +13,24 @@
     "categories": [],
     "contents": "\r\nWelcome is this new section in which I will lead you step by step in the process on creating a plot in R. Let’s dive in!\r\n\r\n\r\nhead(mtcars)\r\n\r\n\r\n                   mpg cyl disp  hp drat    wt  qsec vs am gear carb\r\nMazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4\r\nMazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4\r\nDatsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1\r\nHornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1\r\nHornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2\r\nValiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1\r\n\r\nAs you can see, we have the first 6 lines of you dataset. That is what we call the head.\r\n\r\n\r\nattach(mtcars)\r\nplot(mpg, hp, col=\"red\", pch=20, xlab = \"Miles per gallon\",\r\n     ylab = \"Horsepower\", main= \"Horsepower vs MPG\")\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "posts/2022-02-16-when-you-love-maths/when-you-love-maths_files/figure-html5/unnamed-chunk-2-1.png",
-    "last_modified": "2022-02-16T13:14:57+09:00",
-    "input_file": "when-you-love-maths.knit.md"
+    "last_modified": "2022-02-16T13:14:58+09:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My great Blog",
+    "description": "Welcome to our new blog, My great Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-02-16",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-18T11:25:31+09:00",
+    "input_file": {}
   }
 ]

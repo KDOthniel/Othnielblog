@@ -1,7 +1,7 @@
 name: "Othnielblog"
-title: "My great Blog"
+title: "Lulus.. CommentdansR?"
 description: |
-  My great Blog
+  This is a nice place to start.. Let's dive in ! ! !
 output_dir: "_site"
 navbar:
   right:
@@ -9,4 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Contacts"
+      href: contacts.html
 output: distill::distill_article
