@@ -1,0 +1,12 @@
+---
+title: "Some Nice Pictures"
+#description: C'est cette page qui sert les tofs!
+---
+
+![Loook at the sky! Love Japan.. ](tof_ New graduates joy.jpg)
+
+
+![These are just amazing people.. love you!](tof_ Phuc annif.jpg)
+
+
+![This picture is authentic.. trust me! The Biwa lake is a gift.. pure beauty!](tof_ Biwa lake Shiga.jpg)

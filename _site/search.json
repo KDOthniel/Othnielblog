@@ -5,8 +5,8 @@
       "title": "About this blog",
       "description": "Well.. not like the other one ! ! !",
       "author": [],
-      "contents": "\r\nThis picture was taken the day of my Masters graduation ceremony at Shiga University, Japan. I’m now a proud Ph.D. Student of the GSID of Nagoya University, Japan.Hello guys ! ! !\r\nI’m Othniel.. but here you surely gonna call me Lulus.. I am a proud Ph.D. Student of the Graduate School of International Development of Nagoya-University (one of the best here in Japan :) ) and well his is a place where we are gonna have fun learning R.. yes R.. yes.. yes.. R haha.. the kind of intimidating but very nice statistical software..\r\nI promise.. I will take step by step.. you are gonna love it sure.. I promise.. promise..\r\nFor more details..\r\nFor more about me please visit my personal website.\r\nNow let’s get started!\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-18T17:57:27+09:00"
+      "contents": "\r\nThis picture was taken the day of my Masters graduation ceremony  at Shiga University, Japan. I’m now a proud Ph.D. Student of the GSID  of Nagoya University, Japan.Hello guys ! ! !\r\nI’m Othniel.. but here you surely gonna call me Lulus.. I am a proud Ph.D. Student of the Graduate School of International Development of Nagoya-University (one of the best here in Japan :) ) and well his is a place where we are gonna have fun learning R.. yes R.. yes.. yes.. R haha.. the kind of intimidating but very nice statistical software..\r\nI promise.. I will take step by step.. you are gonna love it sure.. I promise.. promise..\r\nFor more details..\r\nFor more about me please visit my personal website.\r\nNow let’s get started!\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-18T22:17:38+09:00"
     },
     {
       "path": "contacts.html",
@@ -14,14 +14,21 @@
       "author": [],
       "date": "2/18/2022",
       "contents": "\r\nLet’s keep in touch on social media ! ! !\r\nFacebook\r\nTwitter\r\nYoutube\r\nLinkedIn\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-18T17:57:28+09:00"
+      "last_modified": "2022-02-18T22:17:39+09:00"
     },
     {
       "path": "index.html",
       "title": "My great Blog CommentdansR?",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-18T17:57:29+09:00"
+      "last_modified": "2022-02-18T22:17:40+09:00"
+    },
+    {
+      "path": "photos.html",
+      "title": "Some Nice Pictures",
+      "author": [],
+      "contents": "\r\nLoook at the sky! Love Japan..These are just amazing people.. love you!This picture is authentic.. trust me! The Biwa lake is a gift.. pure beauty!\r\n\r\n\r\n",
+      "last_modified": "2022-02-18T22:17:41+09:00"
     }
   ],
   "collections": ["posts/posts.json"]

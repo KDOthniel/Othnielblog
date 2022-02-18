@@ -8,7 +8,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![*This picture was taken the day of my Masters graduation ceremony at Shiga University, Japan. I'm now a proud Ph.D. Student of the GSID of Nagoya University, Japan.*](Pourlafete.jpg)
+![*This picture was taken the day of my Masters graduation ceremony <br> at Shiga University, Japan. I'm now a proud Ph.D. Student of the GSID <br> of Nagoya University, Japan.*](tof_ Pourlafete.jpg){width=60%}
 
 ## Hello guys ! ! ! 
 
@@ -19,7 +19,7 @@ I promise.. promise..
 
 ## For more details..
 
-For more about me please visit my  [personal website](https://othnielwebsite.netlify.app/).
+For more about me please visit my  [**personal website**](https://othnielwebsite.netlify.app/).
 
 Now let's get started! 
 
