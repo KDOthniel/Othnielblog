@@ -6,6 +6,7 @@ author:
   - name: KPOVIESSI Dohèto Othniel
      url: https://othnielwebsite.netlify.app/
 date: 2022-06-19
+preview:
 output:
   distill::distill_article:
     self_contained: false
@@ -13,4 +14,4 @@ output:
 
 
 
-It is a step by step process.
+It is a step by step process. Everything we do in this life is a step by step process. I don't know why.. but that is how it works. Let me share with you my personal story!
