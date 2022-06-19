@@ -13,6 +13,8 @@ preview: tof_ Biwa lake Shiga.jpg
 output:
   distill::distill_article:
     self_contained: false
+    toc: true
+    css: style_welcome.css
 ---
 
 ```{r setup, include=FALSE}

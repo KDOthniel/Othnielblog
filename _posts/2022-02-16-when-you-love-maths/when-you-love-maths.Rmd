@@ -9,6 +9,8 @@ date: 2022-02-16
 output:
   distill::distill_article:
     self_contained: false
+    toc: true
+    css: style_wylm.css
 ---
 
 Welcome is this new section in which I will lead you step by step in the process on creating a plot in R. Let's dive in!
