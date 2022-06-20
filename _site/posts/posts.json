@@ -2,20 +2,25 @@
   {
     "path": "posts/2022-06-19-le-premier-pas/",
     "title": "Le premier Pas",
-    "description": "A short description of the post.",
+    "description": "Why the first step is that important..",
     "author": [
       {
-        "name": "KPOVIESSI DohÃ¨to Othniel",
-        "url": "https://example.com/norajones"
+        "name": "KPOVIESSI Dohèto Othniel",
+        "url": {}
+      },
+      {
+        "name": "",
+        "url": "https://othnielwebsite.netlify.app/"
       }
     ],
     "date": "2022-06-19",
     "categories": [
-      "-portfolios -forecasting"
+      "portfolios",
+      "forecasting"
     ],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nThe first step was very important. This is because the first step in\r\nwhatever you do is crucial..\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-06-20T14:42:25+09:00",
+    "last_modified": "2022-06-20T14:55:44+09:00",
     "input_file": "le-premier-pas.knit.md"
   },
   {

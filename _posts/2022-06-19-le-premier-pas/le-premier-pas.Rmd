@@ -1,27 +1,57 @@
 ---
 title: "Le premier Pas"
 description: |
-  A short description of the post.
+  Why the first step is that important.. 
 author:
-  - name: KPOVIESSI DohÃ¨to Othniel
-    url: https://example.com/norajones
+  - name: KPOVIESSI Dohèto Othniel
+  - url: https://othnielwebsite.netlify.app/
 date: 2022-06-19
 preview:
 categories:
-  -portfolios
-  -forecasting
+  - portfolios
+  - forecasting
 output:
   distill::distill_article:
     self_contained: false
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+The first step was very important. This is because the first step in whatever you do is crucial.. 
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
