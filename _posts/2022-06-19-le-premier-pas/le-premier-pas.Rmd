@@ -6,6 +6,10 @@ author:
   - name: KPOVIESSI DohÃ¨to Othniel
     url: https://example.com/norajones
 date: 2022-06-19
+preview:
+categories:
+  -portfolios
+  -forecasting
 output:
   distill::distill_article:
     self_contained: false
